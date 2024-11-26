@@ -40,3 +40,8 @@ He/Him
   <img src="https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC" alt="Jira" />
 </div>
 
+### 📜 Certifications
+
+[![Google Cloud Certified](https://images.credly.com/size/340x340/images/8a1fc4f7-2e30-495c-b9d6-3286b56706a3/image.png)](https://www.credly.com/badges/849a0b3d-f45a-4ca6-8b66-eeb326b8cb17/linked_in_profile)
+- **Google Cloud Certified**: Security in Cloud Computing
+
