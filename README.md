@@ -23,22 +23,17 @@ Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefan-c-791
 😄 **Pronouns**  
 He/Him
 
-⚡ **Fun fact**  
-I’m passionate about building **innovative solutions** that solve real-world problems, and I love experimenting with new technologies.
-![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00add8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032) **Git**
-- ![Slack](https://img.shields.io/badge/-Slack-black?style=flat&logo=slack&logoColor=4A154B) **Slack**
-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED) **Docker**
-- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624) **Linux**
-- ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite&logoColor=003B57) **SQL**
-- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=E34F26) **HTML**
-- ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8) **Go (Programming Language)**
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933) **Node.js**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E) **JavaScript**
-- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=1572B6) **Cascading Style Sheets (CSS)**
-- ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4) **Google Cloud Platform (GCP)**
-- ![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC) **Jira**
-- ![Zendesk](https://img.shields.io/badge/-Zendesk-black?style=flat&logo=zendesk&logoColor=78B62D) **Zendesk**
-- ![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=hubspot&logoColor=FF7A59) **HubSpot**
+![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032) 
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite&logoColor=003B57)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=1572B6)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC)
+![Zendesk](https://img.shields.io/badge/-Zendesk-black?style=flat&logo=zendesk&logoColor=78B62D)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=hubspot&logoColor=FF7A59)
+
