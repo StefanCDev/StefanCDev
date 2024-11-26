@@ -26,7 +26,7 @@ Attending tech events to connect with like-minded professionals, explore cutting
 😄 **Pronouns**  
 He/Him
 
-<div style="transform: scale(1.2); display: inline-block;">
+<div style="transform: scale(2.4); display: inline-block;">
   <img src="https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933" alt="Node.js" />
