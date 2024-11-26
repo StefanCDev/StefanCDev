@@ -20,6 +20,9 @@ How to build scalable, secure applications using **Go** and **JavaScript**, or a
 📫 **How to reach me**  
 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefan-c-791b8a17b)
 
+🎉 **What I enjoy**  
+Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry.  
+
 😄 **Pronouns**  
 He/Him
 
