@@ -26,17 +26,17 @@ Attending tech events to connect with like-minded professionals, explore cutting
 😄 **Pronouns**  
 He/Him
 
-![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite&logoColor=003B57)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=1572B6)
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC)
-![Zendesk](https://img.shields.io/badge/-Zendesk-black?style=flat&logo=zendesk&logoColor=78B62D)
-![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=hubspot&logoColor=FF7A59)
+<div style="transform: scale(1.2); display: inline-block;">
+  <img src="https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite&logoColor=003B57" alt="SQL" />
+  <img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/-Jira-black?style=flat&logo=jira&logoColor=0052CC" alt="Jira" />
+</div>
 
