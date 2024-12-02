@@ -23,6 +23,11 @@ Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefan-c-791
 🎉 **What I enjoy**  
 Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry.  
 
+👨‍💻 **When I don't code**
+
+I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!
+
+
 😄 **Pronouns**  
 He/Him
 
