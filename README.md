@@ -28,8 +28,6 @@ Attending tech events to connect with like-minded professionals, explore cutting
 I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!
 
 
-😄 **Pronouns**  
-He/Him
 
 <div style="transform: scale(2.4); display: inline-block;">
   <img src="https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
