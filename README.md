@@ -3,7 +3,7 @@
 🔭 **Currently working on**  
 Building innovative projects with **Go** and **JavaScript**, focusing on **cybersecurity**, **cloud**, and **DevOps**.
 
-A personal cloud using a Raspberry Pi 3 and an SSD with Nextcloud for secure, private cloud storage and file synchronization.
+A personal cloud using a Raspberry Pi 400 and an SSD with Nextcloud for secure, private cloud storage and file synchronization.
 
 🌱 **Learning**  
 Expanding my expertise in **Google Cloud Platform (GCP)** to build scalable cloud solutions.
